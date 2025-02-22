@@ -6,7 +6,7 @@ from flask import Flask
 app = Flask(__name__)
 
 TARGET_URL = "https://thread-clone-j581.onrender.com/"
-SELF_URL = "https://your-own-app.onrender.com/ping"  # Replace with your Render app URL
+SELF_URL = "https://alive-1-dqhi.onrender.com"  # Replace with your Render app URL
 
 def send_request():
     try:
