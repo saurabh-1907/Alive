@@ -5,7 +5,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-TARGET_URL = "https://thread-clone-j581.onrender.com/"
+TARGET_URL = "https://thread-clone-j581.onrender.com/auth"
 SELF_URL = "https://alive-1-dqhi.onrender.com"  # Replace with your Render app URL
 
 def send_request():
