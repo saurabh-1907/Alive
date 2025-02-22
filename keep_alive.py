@@ -3,7 +3,7 @@ import schedule
 import time
 
 URL = "https://thread-clone-j581.onrender.com/"
-SELF_URL = "https://your-own-app.onrender.com/ping"  # Replace with your own app URL
+SELF_URL = "https://www.youtube.com/"  # Replace with your own app URL
 
 def send_request():
     try:
